@@ -29,6 +29,8 @@ public class SampleFacebook001task {
 		System.out.println(getText1.getAttribute("innerText"));
 		System.out.println(getText1.getText());
 		
+		System.out.println(getText1.getAttribute("innerText"));
+		System.out.println(getText1.getText());
 		
 	}
 	
